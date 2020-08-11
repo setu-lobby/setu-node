@@ -1,0 +1,24 @@
+{
+    "name": "setu",
+    "version": "0.0.3",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Nithin Kashyap <nithin@setu.co>",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/setu-lobby/setu-node.git"
+    },
+    "bugs": {
+        "url": "https://github.com/setu-lobby/setu-node/issues"
+    },
+    "homepage": "https://github.com/setu-lobby/setu-node#readme",
+    "description": ""
+}
